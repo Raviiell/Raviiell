@@ -8,4 +8,4 @@ Estou me desenvolvendo na linguagem JavaScript.
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-*Não entre em contato comigo!*
+**Não entre em contato comigo!**
